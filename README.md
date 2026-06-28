@@ -1,8 +1,8 @@
 ![logo](https://github.com/Vanshdev21/Vansh-Khubchandani/blob/4bd54e75086153afeadaf3a449a1889c45ce51f0/Banner.png)
 <h1 align="center">Hi 👋, I'm Vansh Khubchandani</h1>
-<h3 align="center">🚀 Passionate Flutter Developer from India 🇮🇳</h3>
+<h3 align="center">Web Blockchain AI developer from India 🇮🇳</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzdhenJtMGllN3g4cnhqbWM1NXRsdHc1a3J3OHkwZjJ3MXd4ZnF5aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/QuIxFwQo0RMT1tASlV/giphy.gif" />
+<img align="right" alt="coding" width="400" src="https://tenor.com/cpkDCOjSAyu.gif" />
 
 ---
 
